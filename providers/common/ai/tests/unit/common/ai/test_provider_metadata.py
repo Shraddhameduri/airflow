@@ -76,6 +76,7 @@ LABELS = {
     "heroku": "Heroku",
     "huggingface": "Hugging Face",
     "litellm": "LiteLLM",
+    "meta": "Meta",
     "mistral": "Mistral AI",
     "moonshotai": "Moonshot AI",
     "nebius": "Nebius",
